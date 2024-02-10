@@ -1,2 +1,2 @@
 # discord-tasks
-## Repo for my students
+## Repository for my students
